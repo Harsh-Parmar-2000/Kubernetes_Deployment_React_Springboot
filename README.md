@@ -54,10 +54,6 @@ Once deployed, you can access the applications as follows:
 
 If you'd like to contribute to this project or make improvements, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thank you to the Spring Boot and React communities for their excellent documentation and support.
